@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "skillsets": {
+    "TNB": {
+      "directory": "skillsets/TNB",
+      "match": "TNB"
+    },
+    "tnb-tests": {
+      "directory": "skillsets/tnb-tests",
+      "match": "tnb-tests"
+    }
+  }
+}
